@@ -15,5 +15,10 @@ public class Day2 {
             System.out.println( a%b);
             System.out.print("Division of two numbers:");
             System.out.println( a/b);
+            System.out.println(a++);
+            System.out.println(b--);
+            System.out.println(a>b);
+            System.out.println(b>a?a:b);
+
         }
 }
